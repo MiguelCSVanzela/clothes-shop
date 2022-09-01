@@ -1,0 +1,11 @@
+Styled Component leverage a style exclusevly to the component. 
+
+Emotion style is a library designed for writing css and javascript. 
+
+Styled Component makes sure each component have an unique identification.
+note: It does not cause name conflict. 
+
+An style usually comes with all html tag available.
+
+The ex css file can receives js or jsx extension. 
+note: Class becomes unnecessary. 
